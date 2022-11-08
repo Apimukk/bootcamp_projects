@@ -1,7 +1,7 @@
 # Bootcamp Projects
 Data science bootcamp batch 06 with `adToy`
 
-we learn 10 sprints during 4 months program
+We learn 10 sprints during 4 months program.
 
 - Spreadsheets
 - SQL database
